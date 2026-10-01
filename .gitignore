@@ -1,0 +1,14 @@
+text/*.aux
+text/*.bbl
+text/*.bcf
+text/*.blg
+text/*.fdb_latexmk
+text/*.fls
+text/*.log
+text/*.out
+text/*.pdf
+text/*.run.xml
+text/*.synctex.gz
+text/*.toc
+
+!text/logo_fi.pdf
