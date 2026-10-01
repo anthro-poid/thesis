@@ -1,0 +1,3 @@
+[submodule "tiny"]
+	path = tiny
+	url = git@gitlab.fi.muni.cz:xuhlik2/tiny.git
